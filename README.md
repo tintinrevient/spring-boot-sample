@@ -91,11 +91,3 @@ Jacoco的报告在target/site/jacoco/index.html，如下是一个截图：
 Findbugs的报告在target/site/findbugs/findbugsXml.html，如下是一个截图：
 ![findbugs](./pix/findbugs.png)
 
-### Docker
-
-### Reference
-* http://171.217.92.33:8169/pages/viewpage.action?pageId=29556767
-* http://171.217.92.33:8169/pages/viewpage.action?pageId=29556802
-* http://171.217.92.33:8169/display/knowledge/CDC+Tests
-* http://171.217.92.33:8169/display/knowledge/Swagger
-* http://171.217.92.33:8169/pages/viewpage.action?pageId=26968388
