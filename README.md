@@ -89,5 +89,7 @@ Jacoco的报告在target/site/jacoco/index.html，如下是一个截图：
 ### Findbugs测试报告
 
 Findbugs的报告在target/site/findbugs/findbugsXml.html，如下是一个截图：
-![findbugs](./pix/findbugs.png)
+<p float="left">
+	<img src="./pix/findbugs.png" width=650 />
+</p>
 
